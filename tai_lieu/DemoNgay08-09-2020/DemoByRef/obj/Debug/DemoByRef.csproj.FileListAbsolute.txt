@@ -1,7 +1,0 @@
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoByRef\bin\Debug\DemoByRef.exe.config
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoByRef\bin\Debug\DemoByRef.exe
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoByRef\bin\Debug\DemoByRef.pdb
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoByRef\obj\Debug\DemoByRef.csprojAssemblyReference.cache
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoByRef\obj\Debug\DemoByRef.csproj.CoreCompileInputs.cache
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoByRef\obj\Debug\DemoByRef.exe
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoByRef\obj\Debug\DemoByRef.pdb

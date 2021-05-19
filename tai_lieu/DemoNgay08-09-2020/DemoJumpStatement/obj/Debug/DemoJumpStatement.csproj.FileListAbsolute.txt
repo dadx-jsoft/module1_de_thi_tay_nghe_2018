@@ -1,6 +1,0 @@
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoJumpStatement\bin\Debug\DemoJumpStatement.exe.config
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoJumpStatement\bin\Debug\DemoJumpStatement.exe
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoJumpStatement\bin\Debug\DemoJumpStatement.pdb
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoJumpStatement\obj\Debug\DemoJumpStatement.csproj.CoreCompileInputs.cache
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoJumpStatement\obj\Debug\DemoJumpStatement.exe
-E:\Demo_LTW4\DemoNgay08-09-2020\DemoJumpStatement\obj\Debug\DemoJumpStatement.pdb
